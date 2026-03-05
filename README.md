@@ -15,6 +15,21 @@ Tecnologías q utilice
 - ChromaDB (base vectorial)
 
 
+La api permite:
+
+- Ingestar documentos
+- Indexarlos en una base vectorial
+- Realizar consultas semánticas
+- Devolver respuestas junto con las fuentes utilizadas
+
+
+Tecnologías q utilice
+
+- Python
+- FastAPI
+- LlamaIndex
+- ChromaDB 
+
 Instalación.
 
 Crear entorno virtual:
